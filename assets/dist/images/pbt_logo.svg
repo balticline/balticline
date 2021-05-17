@@ -3,16 +3,15 @@
 
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="78" width="171" y="-1" x="-1"/>
-  <g display="none" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_3"/>
+  <rect x="-1" y="-1" width="171" height="78" id="canvas_background" fill="none"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_3" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <text stroke="#000" font-style="normal" font-weight="bold" transform="matrix(1.9731499399223007,0,0,2.178167726965189,-19.424823597543206,-10.387971735222985) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="15" id="svg_1" y="28.86903" x="8.94702" stroke-width="0" fill="#ffffff">UNIVERSAL</text>
-  <text style="cursor: move;" stroke="#000" transform="matrix(1.298976073144944,0,0,1.1486102069924617,0.4521813660393676,-9.96156267036691) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="12" id="svg_2" y="67.46123" x="-0.47229" stroke-width="0" fill="#ffffff">Courier Service</text>
-  <rect rx="2" stroke="#000" id="svg_4" height="2.63158" width="81.05255" y="62.73682" x="113.44734" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff"/>
-  <rect id="svg_6" height="7.89473" width="10.52631" y="17.4737" x="-6.02623" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <text font-weight="bold" fill="#ffffff" stroke-width="0" x="-0.27983" y="72.21765" id="svg_2" font-size="7" font-family="sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.29898 0 0 1.14861 0.452181 -9.96156)" stroke="#000">EXPRESS FREIGHT NETWORK</text>
+  <rect fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="140.44689" y="68.73672" width="81.05255" height="2.63158" id="svg_4" stroke="#000" rx="2"/>
+  <text transform="matrix(4.9297 0 0 4.96316 -99.0589 -12.1956)" stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="15" id="svg_1" y="15.1163" x="18.96594" stroke-width="0" fill="#ffffff">BLL</text>
  </g>
 </svg>
