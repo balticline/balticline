@@ -1,0 +1,16 @@
+<svg width="169" height="76" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="78" width="171" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_3"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" font-style="normal" font-weight="bold" transform="matrix(1.9731499399223007,0,0,2.178167726965189,-19.424823597543206,-10.387971735222985) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="15" id="svg_1" y="28.86903" x="8.94702" stroke-width="0" fill="#ffffff">UNIVERSAL</text>
+  <text stroke="#000" transform="matrix(1.3009809087753297,0,0,1.1314473887479306,0.4543690507060952,-9.00652057833054) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="12" id="svg_2" y="67.46123" x="-0.47229" stroke-width="0" fill="#ffffff">Courier Service Network</text>
+ </g>
+</svg>
